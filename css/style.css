@@ -604,6 +604,9 @@ button {
   margin-bottom: 8px;
   position: relative;
 }
+.modal-field-textarea {
+  margin-bottom: 16px;
+}
 .modal-label {
   color: #8e8f99;
   font-size: 12px;
@@ -664,7 +667,7 @@ button {
   border-color: #4d5ae5;
 }
 .checkbox-container {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .modal-form-privacy {
   color: #8e8f99;
